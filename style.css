@@ -1,0 +1,70 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.logo {
+	margin-top: 0px;
+  top: 0;
+  left: 0;
+  z-index: 999999;
+  position: fixed;
+  opacity: 1;
+ 	display: inline-block;
+  text-align: center;
+	background-color: #000;
+	height: 100%;
+	width: 15%;
+}
+
+.slide{
+  margin-top: 5s0px;
+  
+}
+.slide img{
+  height: 70vh;
+  width: 20%;
+  
+}
+
+
+.borroso{
+  min-height: ;
+  background-size: cover;
+  opacity:;  
+}
+
+.borroso p{
+  font-size: 3rem;
+  color: black;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+.bim{
+  background-color: black;
+  heigh: 20;
+  width: 30;
+}
+
+.boton {
+margin-left: 45%;  
+  text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:#ffff;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#5f35dd;
+
+border-radius:35px;
+}
+.navbar-brand{
+  margin-left: 45%;
+}
+.card{
+  width: 300px
+}
